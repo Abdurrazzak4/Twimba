@@ -6,3 +6,5 @@ Quick start:
 $ npm install
 $ npm start
 ````
+
+This is a basic level twitter clone. You can send post and retweet-like the other posts. 
